@@ -1,1 +1,1 @@
-# Java-ChatApp
+# Java ChatApp
